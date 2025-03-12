@@ -13,7 +13,7 @@ This is a simple, lightweight Object-Relational Mapper (ORM) for Java, built usi
 1. Clone the repository:
    ```sh
    git clone https://github.com/AllByteNoBark/java-ORM-lite.git
-   cd yourrepository
+   cd java-ORM-lite
    ```
 2. Install MySQL connector:
    ```sh
